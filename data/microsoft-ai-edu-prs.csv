@@ -1,0 +1,22 @@
+PR_Number,Title,Author,Status,Created_Date,Updated_Date,Merged_Date,URL,Labels
+838,Pin GitHub Actions to full-length commit SHAs,danfiedler-msft,open,17 days ago,17 days ago,N/A,https://github.com/microsoft/ai-edu/pull/838,
+826,fix typo,cycleuser,open,01 February 2025,01 February 2025,N/A,https://github.com/microsoft/ai-edu/pull/826,
+825,修正數學算式前後空格,codemee,open,06 January 2025,06 January 2025,N/A,https://github.com/microsoft/ai-edu/pull/825,
+803,Bump tensorflow from 1.14.0 to 2.11.1,dependabot[bot],open,20 July 2023,20 July 2023,N/A,https://github.com/microsoft/ai-edu/pull/803,dependencies; python
+801,Update README.md,hydraxman,open,08 June 2023,16 October 2023,N/A,https://github.com/microsoft/ai-edu/pull/801,
+800,Delete 基础教程/A5-现代软件工程（更新中） directory,hydraxman,open,07 June 2023,08 June 2023,N/A,https://github.com/microsoft/ai-edu/pull/800,
+781,Bump Newtonsoft.Json from 9.0.1 to 13.0.1,dependabot[bot],open,24 March 2023,24 March 2023,N/A,https://github.com/microsoft/ai-edu/pull/781,dependencies; .NET
+780,Bump Newtonsoft.Json from 11.0.2 to 13.0.1,dependabot[bot],open,24 March 2023,24 March 2023,N/A,https://github.com/microsoft/ai-edu/pull/780,dependencies; .NET
+779,Bump Newtonsoft.Json from 12.0.1 to 13.0.1,dependabot[bot],open,24 March 2023,24 March 2023,N/A,https://github.com/microsoft/ai-edu/pull/779,dependencies; .NET
+778,Bump Newtonsoft.Json from 11.0.2 to 13.0.1,dependabot[bot],open,24 March 2023,24 March 2023,N/A,https://github.com/microsoft/ai-edu/pull/778,dependencies; .NET
+749,CVE-2007-4559 Patch,TrellixVulnTeam,open,13 October 2022,13 October 2022,N/A,https://github.com/microsoft/ai-edu/pull/749,
+735,A0-中学生都能听懂的人工智能课程,zzzkey23,open,31 May 2022,02 June 2022,N/A,https://github.com/microsoft/ai-edu/pull/735,
+731,Bump System.Text.RegularExpressions from 4.3.0 to 4.3.1,dependabot[bot],open,16 May 2022,16 May 2022,N/A,https://github.com/microsoft/ai-edu/pull/731,dependencies; .NET
+730,Bump System.Net.Http from 4.3.0 to 4.3.4,dependabot[bot],open,16 May 2022,16 May 2022,N/A,https://github.com/microsoft/ai-edu/pull/730,dependencies; .NET
+728,Bump System.Net.Http from 4.3.0 to 4.3.4,dependabot[bot],open,16 May 2022,16 May 2022,N/A,https://github.com/microsoft/ai-edu/pull/728,dependencies; .NET
+727,Bump System.Text.RegularExpressions from 4.3.0 to 4.3.1,dependabot[bot],open,16 May 2022,16 May 2022,N/A,https://github.com/microsoft/ai-edu/pull/727,dependencies; .NET
+725,路径修改,zerohope,open,09 May 2022,24 March 2023,N/A,https://github.com/microsoft/ai-edu/pull/725,
+703,paper sharing & open-source lecture,PeggyPeppa,open,13 December 2021,22 January 2022,N/A,https://github.com/microsoft/ai-edu/pull/703,
+679,fix github actions,b11p,open,15 October 2021,15 October 2021,N/A,https://github.com/microsoft/ai-edu/pull/679,
+601,Update 01_代数-checkpoint.ipynb,xja,open,09 January 2021,18 May 2021,N/A,https://github.com/microsoft/ai-edu/pull/601,
+555,神经网络的数据表示,ppdog0,open,14 September 2020,15 September 2020,N/A,https://github.com/microsoft/ai-edu/pull/555,
